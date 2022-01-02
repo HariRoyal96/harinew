@@ -27,7 +27,7 @@ public class SampleAppTest extends TestCase1 {
     /**
      * Rigourous Test :-)
      */
-    public void testApp() {
+    public void testApp9() {
         assertTrue(true);
     }
 }
