@@ -20,14 +20,14 @@ public class SampleAppTest extends TestCase1 {
     /**
      * @return the suite of tests being tested
      */
-    public static Test suite() {
+    public static Test suite2() {
         return new TestSuite(SampleAppTest.class);
     }
 
     /**
      * Rigourous Test :-)
-     */
-    public void testApp9() {
+     */ 
+    public void testApp99() {
         assertTrue(true);
     }
 }
